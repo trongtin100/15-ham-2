@@ -1,0 +1,5 @@
+
+function alertMessage(){
+    alert("hello");
+}
+
